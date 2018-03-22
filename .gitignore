@@ -1,0 +1,11 @@
+
+*.spec
+build/
+dist/
+.idea/
+*.xml
+*.iml
+__pycache__/
+\.idea/
+.idea/workspace.xml
+.idea/CA_second.iml
